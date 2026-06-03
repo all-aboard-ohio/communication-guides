@@ -1,33 +1,39 @@
-# [Topic] — One-Pager
+# One-Pager Summary Template
 
-> _Shareable summary for [audience: e.g., legislators, community members, media]_
-
----
-
-## The Bottom Line
-
-[One to two sentences stating the single most important thing the reader should take away.]
-
-## Key Facts
-
-- **[Fact 1]:** [data point with source]
-- **[Fact 2]:** [data point with source]
-- **[Fact 3]:** [data point with source]
-- **[Fact 4]:** [data point with source]
-
-## What This Means for Ohio
-
-[Two to three sentences connecting the data to Ohio's specific context.]
-
-## The Ask
-
-[One clear call to action: vote yes, support funding, attend a hearing, sign a letter, etc.]
-
-## Learn More
-
-- [Link or contact]
-- [Link or contact]
+Use this template to create a single-page summary of a technical report for general audiences. Replace the bracketed text with your content.
 
 ---
 
-_All Aboard Ohio · allaboardohio.org · [date]_
+## [Compelling Headline: State the most impactful finding]
+
+### Key Takeaways
+
+1. **[First key finding]** — [One-sentence explanation of why it matters]
+2. **[Second key finding]** — [One-sentence explanation]
+3. **[Third key finding]** — [One-sentence explanation]
+4. **[Fourth key finding (optional)]** — [One-sentence explanation]
+
+### Background
+
+[Two to three sentences explaining the report’s purpose, who produced it, and the geographic or community context.]
+
+### What This Means for You
+
+- **[Impact 1]** — [How this affects residents, businesses, or commuters]
+- **[Impact 2]** — [How this affects the community]
+- **[Impact 3]** — [How this affects local decision-making]
+
+### Next Steps
+
+- **[Action 1]** — [What readers can do, e.g., attend a meeting, submit comments]
+- **[Action 2]** — [Where to find more information]
+- **[Action 3]** — [How to share this summary]
+
+### Sources
+
+- [Link to full report or relevant section]
+- [Contact information for the agency or organization]
+
+---
+
+*This summary was prepared by [Your Organization Name]. For the full report, visit [URL].*
